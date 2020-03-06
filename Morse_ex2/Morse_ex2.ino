@@ -100,6 +100,8 @@ void loop()
   //A
   punt();
   ratlla();
+  espaiP();
+  espaiP();
   
   
   }
